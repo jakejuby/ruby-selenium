@@ -1,0 +1,21 @@
+{
+    "creds": {
+        "email": "justice80088008@gmail.com",
+        "pw": "vendetta01"
+    },
+    "frequency": 10,
+    "posts": [
+        {
+            "title": "syra sample title",
+            "text": "sample text",
+            "zip": 14607,
+            "filename": "whirlpool washer - 1 year warranty (199).jpg"
+        },
+        {
+            "title": "syra sample title 2",
+            "text": "sample text 2",
+            "zip": 14420,
+            "filename": "whirlpool washer - 1 year warranty (199).jpg"
+        }
+    ]
+}
